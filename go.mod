@@ -1,4 +1,4 @@
-module github.com/k42-software/go-altcha
+module github.com/mklnz/go-altcha
 
 go 1.21
 
